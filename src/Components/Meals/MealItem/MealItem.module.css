@@ -1,0 +1,13 @@
+.meals{
+    margin: 0.5em;
+    width: 15em;
+}
+
+.cont{
+    background-color: aqua;
+    color: black;
+    border-radius: 0.5em;
+    border: 0;
+    padding: 0.3em;
+    max-width:80%;
+}

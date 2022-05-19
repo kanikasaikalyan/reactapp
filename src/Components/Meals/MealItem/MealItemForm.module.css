@@ -1,0 +1,14 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.button{
+    background-color: brown;
+    border-radius: 1em;
+    color: azure;
+    border: 0;
+    width: 50%;
+    margin-left: auto;
+}
